@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="14F43EF0-760D-4B98-8F27-DDA424190C01" version="0">
+	<info>
+		<title>Movers Listening</title>
+		<description/>
+	</info>
+	<files index="id36" thumbnail="id31" totalSize="17950517">
+		<file id="id0">data/audios/snd-2845-b124-2584-8e4a.mp3</file>
+		<file id="id1">data/audios/snd-3dde-a2f9-eb95-a765.mp3</file>
+		<file id="id2">data/audios/snd-5df0-64a1-5009-c8e1.mp3</file>
+		<file id="id3">data/audios/snd-8626-a259-950c-510d.mp3</file>
+		<file id="id4">data/audios/snd-9484-18a9-eaae-a542.mp3</file>
+		<file id="id5">data/audios/snd-deea-c391-3868-285a.mp3</file>
+		<file id="id6">data/audios/snd-f244-182f-caf7-1019.mp3</file>
+		<file id="id7">data/audios/snd-fd8e-84eb-494c-7cde.mp3</file>
+		<file id="id8">data/browsersupport.js</file>
+		<file id="id9">data/fonts/fnt0.woff</file>
+		<file id="id10">data/fonts/fnt1.woff</file>
+		<file id="id11">data/fonts/fnt2.woff</file>
+		<file id="id12">data/html5-unsupported.html</file>
+		<file id="id13">data/html5.png</file>
+		<file id="id14">data/images/img-0137-80e8-9874-d144.jpg</file>
+		<file id="id15">data/images/img-0397-864e-35a2-c9b2.jpg</file>
+		<file id="id16">data/images/img-1700-eec6-b154-0716.PNG</file>
+		<file id="id17">data/images/img-22a5-6304-7230-cea2.jpg</file>
+		<file id="id18">data/images/img-313c-4614-20c8-2209.jpg</file>
+		<file id="id19">data/images/img-3a2b-c483-fcd0-955e.jpg</file>
+		<file id="id20">data/images/img-3a3c-59b0-ea48-0fb9.jpg</file>
+		<file id="id21">data/images/img-749a-3c5d-2aa3-6369.jpg</file>
+		<file id="id22">data/images/img-7e09-cd65-ff89-346d.jpg</file>
+		<file id="id23">data/images/img-8bf2-df76-1fd0-88ee.jpg</file>
+		<file id="id24">data/images/img-b527-6b4e-eebc-846f.jpg</file>
+		<file id="id25">data/images/img-d563-2437-6190-6055.jpg</file>
+		<file id="id26">data/images/img-db06-f71e-cbe4-2cfb.jpg</file>
+		<file id="id27">data/images/img-e3ba-4fdd-04f5-e77a.jpg</file>
+		<file id="id28">data/images/img-f8bc-7594-4624-e14a.jpg</file>
+		<file id="id29">data/ismplayer/app_store2x.png</file>
+		<file id="id30">data/ismplayer/play.svg</file>
+		<file id="id31">data/ismplayer/preview.png</file>
+		<file id="id32">data/ismplayer/style.css</file>
+		<file id="id33">data/ismplayer/style_mini.css</file>
+		<file id="id34">data/lms.js</file>
+		<file id="id35">data/player.js</file>
+		<file id="id36">index.html</file>
+		<file id="id37">ismplayer.html</file>
+		<file id="id38">preview.png</file>
+	</files>
+</presentation>
+

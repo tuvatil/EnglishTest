@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="XikGLoFjgYoAY" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Movers Listening</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="movers_listening_organization">
+		<organization identifier="movers_listening_organization">
+
+			<title>Movers Listening</title>
+			<item identifier="E8C2169A-4CDF-4E4D-ABAD-B6095A75659E" identifierref="resource">
+				<title>Movers Listening</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/audios/snd-2845-b124-2584-8e4a.mp3"/>
+<file href="res/data/audios/snd-3dde-a2f9-eb95-a765.mp3"/>
+<file href="res/data/audios/snd-5df0-64a1-5009-c8e1.mp3"/>
+<file href="res/data/audios/snd-8626-a259-950c-510d.mp3"/>
+<file href="res/data/audios/snd-9484-18a9-eaae-a542.mp3"/>
+<file href="res/data/audios/snd-deea-c391-3868-285a.mp3"/>
+<file href="res/data/audios/snd-f244-182f-caf7-1019.mp3"/>
+<file href="res/data/audios/snd-fd8e-84eb-494c-7cde.mp3"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/images/img-0137-80e8-9874-d144.jpg"/>
+<file href="res/data/images/img-0397-864e-35a2-c9b2.jpg"/>
+<file href="res/data/images/img-1700-eec6-b154-0716.PNG"/>
+<file href="res/data/images/img-22a5-6304-7230-cea2.jpg"/>
+<file href="res/data/images/img-313c-4614-20c8-2209.jpg"/>
+<file href="res/data/images/img-3a2b-c483-fcd0-955e.jpg"/>
+<file href="res/data/images/img-3a3c-59b0-ea48-0fb9.jpg"/>
+<file href="res/data/images/img-749a-3c5d-2aa3-6369.jpg"/>
+<file href="res/data/images/img-7e09-cd65-ff89-346d.jpg"/>
+<file href="res/data/images/img-8bf2-df76-1fd0-88ee.jpg"/>
+<file href="res/data/images/img-b527-6b4e-eebc-846f.jpg"/>
+<file href="res/data/images/img-d563-2437-6190-6055.jpg"/>
+<file href="res/data/images/img-db06-f71e-cbe4-2cfb.jpg"/>
+<file href="res/data/images/img-e3ba-4fdd-04f5-e77a.jpg"/>
+<file href="res/data/images/img-f8bc-7594-4624-e14a.jpg"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+<file href="res/preview.png"/>
+
+		</resource>
+	</resources>
+</manifest>
